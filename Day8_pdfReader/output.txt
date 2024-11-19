@@ -1,0 +1,26 @@
+Prashant Adhikari
++977 9848745588 | E-mail | | LinkedIn | GitHub |
+EDUCATION
+•Himalaya College of Engineering, TU | Kathmandu, Nepal
+BCA (Bachelor in Computer Application), 2025
+Courses: Data Structure and Algorithm (DSA), C-programming, Operating Systems, DBMS, OOPS,
+Web Technology, Dot Net
+PROJECTS
+• E-commerce (Personal Project) | HTML, CSS, JavaScript, PHP
+-Developed a website for online shoe store, allowing users to browse various types shoes, place
+orders, and track deliveries.
+-Utilized HTML for structuring the web page content, CSS for styling, and JavaScript for interactive
+elements and dynamic features and use PHP as backend.
+• Personal Portfolio Website | HTML, CSS, JavaScript
+- Created a fully functional website to present my professional profile and skill set.
+- Implemented four distinct pages:
+- About Me: Introduces myself and outlines my career aspirations.
+- Projects: Showcases past projects with relevant descriptions.
+- Utilized HTML for content structure, CSS for visual design, and JavaScript to enhance user
+experience with interactive elements and use firebase also to store data.
+• Full Stack Project (MERN) Ecommerce-Site (Going on)
+TECHNICAL SKILLS
+• Languages: C, Java, Dot Net
+• Full Stack Development: HTML, CSS, JavaScript, PHP
+• Database: MySQL, Oracle database, firebase
+• Developer Tools: NetBeans, VS Code, Git, GitHub
