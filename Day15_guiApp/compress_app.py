@@ -3,12 +3,12 @@ from zip_creater import make_archive
 
 label1 = sg.Text("Select files to compress: ")
 input1 = sg.Input()
-choose_button1 = sg.FileBrowse("Choose")
+choose_button1 = sg.FileBrowse("Choose", key="archive")
 
 
 label2 = sg.Text("Select destination folder: ")
 input2 = sg.Input()
-choose_button2 = sg.FileBrowse("Choose")
+choose_button2 = sg.FolderBrowse("Choose", key="folder")
 
 compress_button = sg.Button("Compress")
 output_label = sg.Text(key="output", text_color="green")
@@ -20,7 +20,7 @@ window = sg.Window("File compressor", layout=[[label1, input1,choose_button1],
 while True:
     event, value = window.read()
     print(event, value)
-    filepaths = value["files"].split(";")
+    filepaths = value["archive"].split(";")
     folder = value["folder"]
     make_archive(filepaths,folder)
     window["output"].update(value = "compressed is done")
